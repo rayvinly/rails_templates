@@ -1,0 +1,1 @@
+rails -d mysql -m http://github.com/rayvinly/rails_templates/raw/master/base.rb app_name
